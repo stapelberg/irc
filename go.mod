@@ -1,1 +1,1 @@
-module github.com/sorcix/irc/v2
+module github.com/stapelberg/irc/v2
