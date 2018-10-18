@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"strings"
 
-	"gopkg.in/sorcix/irc.v2/internal"
+	"github.com/sorcix/irc/v2/internal"
 )
 
 // Various constants used for formatting IRC messages.
