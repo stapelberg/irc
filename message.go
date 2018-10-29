@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"strings"
 
-	"github.com/stapelberg/irc/v2/internal"
+	"gopkg.in/stapelberg/irc.v2/internal"
 )
 
 // Various constants used for formatting IRC messages.

@@ -13,7 +13,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/stapelberg/irc/v2/internal"
+	"gopkg.in/stapelberg/irc.v2/internal"
 )
 
 // Various constants used for formatting CTCP messages.
